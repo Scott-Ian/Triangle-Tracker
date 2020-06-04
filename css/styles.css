@@ -2,3 +2,20 @@
   align-content: center;
   padding-left: 300px;
 }
+
+.equilateral {
+  display: none;
+}
+
+.isosceles {
+  display: none;
+}
+
+.scalene {
+  display: none;
+}
+
+.notTriangle {
+  display: none;
+}
+
